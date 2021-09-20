@@ -1,4 +1,4 @@
-Learning all about Git and Github
+# Learning all about Git and Github
 
 ## Modern Workflow Techniques
 
